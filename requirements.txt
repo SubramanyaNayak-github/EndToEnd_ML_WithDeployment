@@ -9,6 +9,7 @@ types-PyYAML
 scipy
 ensure
 Flask
+statsmodels
 seaborn
 python-box==6.0.2
 Flask_cors

@@ -28,6 +28,7 @@ list_of_files = [
     "setup.py",
     "notebooks/trials.ipynb",
     "templates/index.html",
+    'research/trails.ipynb',
     'dvc.yaml',
 
     "test.py"
