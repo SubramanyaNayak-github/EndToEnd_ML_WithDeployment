@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit_learn
+gunicorn
+notebook
+joblib
+pyYAML
+types-PyYAML
+scipy
+ensure
+Flask
+seaborn
+python-box==6.0.2
+Flask_cors
+mlflow
+dvc
+-e .
