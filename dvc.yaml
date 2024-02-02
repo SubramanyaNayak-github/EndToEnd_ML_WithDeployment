@@ -1,0 +1,8 @@
+stages:
+  data_ingestion:
+    cmd: python src/ml/pipeline/stage01_data_ingestion.py
+    deps:
+      - src/ml/pipeline/stage01_data_ingestion.py
+      - config/config.yaml
+    outs:
+      - artifacts/data_ingestion/Consignment_pricing_raw.csv

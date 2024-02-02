@@ -30,7 +30,7 @@ list_of_files = [
     "templates/index.html",
     'research/trails.ipynb',
     'dvc.yaml',
-
+    'schema.yaml',
     "test.py"
 
 
